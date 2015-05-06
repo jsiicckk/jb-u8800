@@ -1,0 +1,1 @@
+This is a project to bring Android 4.1.2 to Huawei Ideos X5 U8800, thanks to CyanogenMod.
